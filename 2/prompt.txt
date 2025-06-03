@@ -1,0 +1,7 @@
+Based on this informal bug report “Logout button doesn’t work on Safari. It just doesn’t respond.” I need you to create bug ticket with the following structure: 
+1. Title
+2. Description
+3. Steps to Reproduce
+4. Expected vs Actual Behavior
+5. Environment (if known)
+6. Severity or Impact
