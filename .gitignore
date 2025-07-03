@@ -130,3 +130,25 @@ $RECYCLE.BIN/
 *.tmp
 *.temp
 *~ 
+
+# .NET build folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+*.exe
+*.dll
+*.app
+*.log
+*.pdb
+
+# Others
+.vscode/
+*.ncrunch*
+_ReSharper*/
