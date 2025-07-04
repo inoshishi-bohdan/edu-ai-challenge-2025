@@ -1,0 +1,27 @@
+{
+  "wordCount": 968,
+  "durationMinutes": 7.473,
+  "speakingSpeed": 129.53298541415765,
+  "topics": [
+    {
+      "topic": "uh",
+      "count": 41
+    },
+    {
+      "topic": "okay",
+      "count": 26
+    },
+    {
+      "topic": "um",
+      "count": 18
+    },
+    {
+      "topic": "no",
+      "count": 15
+    },
+    {
+      "topic": "pain",
+      "count": 14
+    }
+  ]
+}
